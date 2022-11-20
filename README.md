@@ -10,7 +10,7 @@
  - Ambil nilai element ke 2 sampai ke 4
  - Ambil element terakhir 
   
-  ![gambar1](gambar/gambarpraktikumhariini1.png)
+  ![gambar1](gambar/gambarpraktikumhariini2.png)
   
   ![gambar1](gambar/gambarhasilelement2.png)
 
